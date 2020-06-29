@@ -6,14 +6,14 @@ How To Run??
 Installing
 steps to run this project
 
-create folder named m&m
+create folder named mehdi
 And
 
-copy and paste all files in The m&m folder created before
+copy and paste all files in The mehdi folder created before
 after that
 
- copy m&m folder and past it in your wordpress instalation under this following path
+ copy mehdi folder and past it in your wordpress instalation under this following path
        wp-content\plugins
 finally
 
-activate the Maria plugin from dashboard
+activate the mehdi plugin from dashboard
