@@ -16,4 +16,4 @@ after that
        wp-content\plugins
 finally
 
-activate the mehdi plugin from dashboard
+activate the Plugin_form from dashboard
